@@ -13,7 +13,7 @@ int main(void)
 		int len = strlen(s);
 		bool b = 1;
 
-		for(int j = 0; j <= len; j++)
+		for(int j = 0; j <= len / 2; j++)
 			if(s[j] != s[len - 1 - j])
 				b = 0;
 
