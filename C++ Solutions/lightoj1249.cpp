@@ -12,7 +12,6 @@ int main(void)
 		string s, mxs, mns;
 		int a, b, c, cube, mx = 0, mn = 1000000;
 		bool bl = 0;
-		vector<pair<string, int> > v;
 		for(int j = 0; j < n; j++){
 			cin >> s >> a >> b >> c;
 			cube = a * b * c;
