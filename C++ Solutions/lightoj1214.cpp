@@ -19,6 +19,7 @@ bool isDivision(string s, ll n)
 	return (a == 0? 1:0);
 }
 
+
 int main(void)
 {
 	int T;
