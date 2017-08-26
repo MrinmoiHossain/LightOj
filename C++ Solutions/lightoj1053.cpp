@@ -2,6 +2,7 @@
 typedef long long int ll;
 using namespace std;
 
+
 int main(void)
 {
 	int T;
